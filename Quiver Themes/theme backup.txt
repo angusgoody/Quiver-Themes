@@ -1,0 +1,73 @@
+You may find third-party themes here.
+
+If you created a nice theme and want to share, please edit this page and add the following information:
+* Name of your theme
+* A download link for the theme JSON file
+* A screenshot
+
+If you want to design your own theme, read here: [[How to Design a Custom Theme]].
+
+---
+
+Ulysses3x Theme
+
+https://raw.githubusercontent.com/t40mas/sonstiges/master/Dark%20-%20Ulysses.json
+
+![](https://raw.githubusercontent.com/t40mas/sonstiges/master/Ulysses3x.png)
+
+
+---
+Lighter Purple
+
+https://raw.githubusercontent.com/facetheheat/quiver-themes/master/Lighter_Purple.json
+
+![](https://raw.githubusercontent.com/facetheheat/quiver-themes/master/Lighter_Purple_preview.png)
+
+---
+Light Blue
+
+https://raw.githubusercontent.com/angusgoody/Json/master/Light%20Blue.json
+
+![](https://raw.githubusercontent.com/angusgoody/Json/master/New%20Light%20Blue.png)
+
+---
+Light Green
+
+https://raw.githubusercontent.com/angusgoody/Json/master/Light%20Green.json
+
+![](https://raw.githubusercontent.com/angusgoody/Json/master/Light%20Green.png)
+
+---
+Orange Theme
+
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Orange%20Theme.json
+
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Orange%20Screenshot.png)
+
+---
+Mint Theme
+
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Mint.json
+
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Mint%20Screenshot.png)
+
+---
+Candy Theme
+
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Candy.json
+
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Candy%20screenshot.png)
+
+---
+Smurf Theme
+
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Smurf.json
+
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Smurf%20screenshot.png)
+
+---
+Reddish Theme
+
+https://raw.githubusercontent.com/elbie-x/repo/master/Reddish_Theme.json
+
+![](https://raw.githubusercontent.com/elbie-x/repo/master/Reddish.png)
