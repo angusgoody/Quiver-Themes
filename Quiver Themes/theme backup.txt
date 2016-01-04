@@ -24,46 +24,45 @@ https://raw.githubusercontent.com/facetheheat/quiver-themes/master/Lighter_Purpl
 ![](https://raw.githubusercontent.com/facetheheat/quiver-themes/master/Lighter_Purple_preview.png)
 
 ---
-Light Blue
+Electric Theme
 
-https://raw.githubusercontent.com/angusgoody/Json/master/Light%20Blue.json
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Mint.json
 
-![](https://raw.githubusercontent.com/angusgoody/Json/master/New%20Light%20Blue.png)
-
----
-Light Green
-
-https://raw.githubusercontent.com/angusgoody/Json/master/Light%20Green.json
-
-![](https://raw.githubusercontent.com/angusgoody/Json/master/Light%20Green.png)
-
----
-Orange Theme
-
-https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Orange%20Theme.json
-
-![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Orange%20Screenshot.png)
-
----
-Mint Theme
-
-https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Mint.json
-
-![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Mint%20Screenshot.png)
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Mint%20Screenshot.png)
 
 ---
 Candy Theme
 
-https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Candy.json
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Candy.json
 
-![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Candy%20screenshot.png)
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Candy%20screenshot.png)
 
 ---
 Smurf Theme
 
-https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Smurf.json
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Smurf.json
 
-![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Smurf%20screenshot.png)
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Smurf%20screenshot.png)
+---
+Light Blue
+
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Light%20Blue.json
+
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/New%20Light%20Blue.png)
+
+---
+Light Green
+
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Light%20Green.json
+
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Light%20Green.png)
+
+---
+Orange Theme
+
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Orange%20Theme.json
+
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Orange%20Screenshot.png)
 
 ---
 Reddish Theme
