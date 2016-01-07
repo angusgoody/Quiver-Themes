@@ -24,6 +24,13 @@ https://raw.githubusercontent.com/facetheheat/quiver-themes/master/Lighter_Purpl
 ![](https://raw.githubusercontent.com/facetheheat/quiver-themes/master/Lighter_Purple_preview.png)
 
 ---
+Atom Theme
+
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/atom.json
+
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Atom%20screenshot.png)
+
+---
 Electric Theme
 
 https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Mint.json
@@ -43,6 +50,13 @@ Smurf Theme
 https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Smurf.json
 
 ![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Smurf%20screenshot.png)
+
+---
+Pond Weed Theme
+
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Pond.json
+
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Pond%20screenshot.png)
 ---
 Light Blue
 
@@ -70,3 +84,10 @@ Reddish Theme
 https://raw.githubusercontent.com/elbie-x/repo/master/Reddish_Theme.json
 
 ![](https://raw.githubusercontent.com/elbie-x/repo/master/Reddish.png)
+
+---
+Joker Theme
+
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Joker.json
+
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/joker%20screenshot.png)
