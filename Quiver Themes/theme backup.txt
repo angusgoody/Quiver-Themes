@@ -57,6 +57,28 @@ Pond Weed Theme
 https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Pond.json
 
 ![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Pond%20screenshot.png)
+
+---
+Cobalt Theme
+
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Cobalt.json
+
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Cobalt%20Screenshot%202.png)
+
+---
+Titanium Theme
+
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Titanium.json
+
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Titanium%20Screenshot.png)
+
+---
+Broccoli Theme
+
+https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Brocolli.json
+
+![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Brocolli%20Screenshot.png)
+
 ---
 Light Blue
 
@@ -85,9 +107,3 @@ https://raw.githubusercontent.com/elbie-x/repo/master/Reddish_Theme.json
 
 ![](https://raw.githubusercontent.com/elbie-x/repo/master/Reddish.png)
 
----
-Joker Theme
-
-https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/Joker.json
-
-![](https://raw.githubusercontent.com/angusgoody/Quiver-Themes/master/Quiver%20Themes/joker%20screenshot.png)
