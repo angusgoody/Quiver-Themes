@@ -1,0 +1,245 @@
+{
+"mainWindow":{
+"divider":{
+"topColor": "#d4d4d4",
+"middleColor": "#d4d4d4",
+"bottomColor": "#d4d4d4"
+}
+},
+"sidebar":{
+"topBar":{
+"backgroundColor": "#07797b",
+"bottomBorderColor": "#f1f3f6",
+"segmentedControl":{
+"tintColor": "#00d9d9",
+"borderWidth":1,
+"borderRadius":3
+}
+},
+"table":{
+"backgroundColor": "#07797b",
+"textColor": "#ffffff",
+"selectedTextColor": "#00d9d9",
+"emphasizedTextColor": "#eee",
+"iconColor": "#00d9d9",
+"selectedIconColor": "#00d9d9",
+"emphasizedIconColor": "#eee",
+"selectedRowBgColor": "#fff",
+"emphasizedRowBgColor": "#00d9d9"
+},
+"bottomBar":{
+"backgroundColor": "#00d9d9",
+"topBorderColor": "#f1f3f6",
+"textColor": "#fff",
+"controlColor": "#07797b",
+"pressedControlColor": "#343A48"
+}
+},
+"noteList":{
+"topBar":{
+"backgroundColor": "#07797b",
+"bottomBorderColor": "#d4d4d4",
+"controlColor": "#00d9d9",
+"pressedControlColor": "#343A48"
+},
+"tableHeader":{
+"backgroundColor": "#07797b",
+"bottomBorderColor": "#d4d4d4",
+"controlColor": "#00d9d9",
+"pressedControlColor": "#343A48"
+},
+"table":{
+"backgroundColor": "#07797b",
+"separatorColor": "#e0e0e0",
+"textColor": "#ffffff",
+"selectedTextColor": "#414141",
+"emphasizedTextColor": "#000000",
+"detailColor": "#cecece",
+"selectedDetailColor": "#8d8d8d",
+"emphasizedDetailColor": "#888888",
+"iconColor": "#444",
+"selectedIconColor": "#252525",
+"emphasizedIconColor": "#eee",
+"rowBgColor": "#FFF",
+"altRowBgColor": "#F8F8F8",
+"selectedRowBgColor": "#00d9d9",
+"emphasizedRowBgColor": "#00d9d9",
+"draggedRowBgColor": "#ddd",
+"emptyTextColor": "#7f7f7f"
+},
+"bottomBar":{
+"backgroundColor": "#00d9d9",
+"searchField":{
+"textColor": "#07797b",
+"controlColor": "#07797b",
+"pressedControlColor": "#343A48",
+"backgroundColor": "#FFF",
+"borderColor": "#c9c9c9",
+"placeholderColor": "#b8b8b8"
+}
+}
+},
+"noteView":{
+"backgroundColor": "#07797b",
+"dividerColor": "#00d9d9",
+"topBar":{
+"backgroundColor": "#07797b",
+"bottomBorderColor": "#00d9d9",
+"controlColor": "#00d9d9",
+"pressedControlColor": "#343A48",
+"segmentedControl":{
+"tintColor": "#00d9d9",
+"borderWidth":1,
+"borderRadius":4
+}
+},
+"toolbar":{
+"backgroundColor": "#07797b",
+"dividerColor": "#00d9d9",
+"middleDividerColor": "#07797b",
+"controlColor": "#00d9d9",
+"pressedControlColor": "#343A48",
+"iconColor": "#00d9d9",
+"textColor": "#00d9d9",
+"popUpButton":{
+"titleColor": "#00d9d9",
+"borderColor": "#ababab"
+},
+"tagField":{
+"textColor": "#ffffff",
+"placeholderColor": "#fffcfc",
+"tag":{
+"textColor": "#343A48",
+"selectedTextColor": "#fff",
+"backgroundColor": "#00d9d9",
+"selectedBackgroundColor": "#6caff1",
+"borderRadius":4
+}
+},
+"formatBar":{
+"controlColor": "#00d9d9",
+"highlightColor": "#21c7ef"
+},
+"searchField":{
+"textColor": "#07797b",
+"controlColor": "#07797b",
+"pressedControlColor": "#343A48",
+"backgroundColor": "#FFF",
+"borderColor": "#c9c9c9",
+"placeholderColor": "#b8b8b8"
+},
+"doneButton":{
+"textColor": "#07797b",
+"highlightBackgroundColor": "#ddd",
+"borderColor": "#acacac"
+}
+},
+"bottomBar":{
+"backgroundColor": "#00d9d9",
+"controlColor": "#07797b",
+"pressedControlColor": "#343A48"
+}
+},
+"multiNote":{
+"backgroundColor": "#f6f6f6",
+"textColor": "#bfbfbf",
+"button":{
+"tintColor": "#585858",
+"highlightColor": "#222222",
+"backgroundColor": "#FDFDFD",
+"highlightBackgroundColor": "#E5E5E5",
+"borderColor": "#bbb",
+"highlightBorderColor": "#bbb"
+},
+"tagField":{
+"textColor": "#444",
+"placeholderColor": "#b8b8b8",
+"backgroundColor": "#fff",
+"borderColor": "#bbb",
+"borderRadius":4,
+"tag":{
+"textColor": "#000",
+"selectedTextColor": "#fff",
+"backgroundColor": "#cadff3",
+"selectedBackgroundColor": "#6caff1",
+"borderRadius":4
+}
+}
+},
+"notebookPicker":{
+"backgroundColor": "#f6f6f6",
+"textColor": "#5a5a5a",
+"dividerColor": "#e0e0e0",
+"searchField":{
+"textColor": "#000",
+"controlColor": "#000",
+"pressedControlColor": "#000",
+"backgroundColor": "#FFF",
+"borderColor": "#c9c9c9",
+"placeholderColor": "#b8b8b8"
+},
+"table":{
+"textColor": "#444",
+"selectedTextColor": "#000",
+"emphasizedTextColor": "#eee",
+"iconColor": "#444",
+"selectedIconColor": "#252525",
+"emphasizedIconColor": "#eee",
+"selectedRowBgColor": "#d4d4d4",
+"emphasizedRowBgColor": "#1F6FEB",
+"emptyTextColor": "#7f7f7f"
+}
+},
+"searchView":{
+"backgroundColor": "#f6f6f6",
+"searchField":{
+"textColor": "#07797b",
+"controlColor": "#07797b",
+"pressedControlColor": "#07797b",
+"backgroundColor": "#FFF",
+"borderColor": "#c9c9c9",
+"placeholderColor": "#b8b8b8"
+},
+"tableHeader":{
+"backgroundColor": "#f6f6f6",
+"topBorderColor": "#e0e0e0",
+"bottomBorderColor": "#e0e0e0",
+"textColor": "#444",
+"controlColor": "#4C5974",
+"pressedControlColor": "#343A48"
+},
+"table":{
+"separatorColor": "#e0e0e0",
+"textColor": "#07797b",
+"selectedTextColor": "#595959",
+"emphasizedTextColor": "#eee",
+"detailColor": "#8d8d8d",
+"selectedDetailColor": "#8d8d8d",
+"emphasizedDetailColor": "#eee",
+"iconColor": "#444",
+"selectedIconColor": "#252525",
+"emphasizedIconColor": "#eee",
+"rowBgColor": "#FFF",
+"altRowBgColor": "#F8F8F8",
+"selectedRowBgColor": "#e5e5e5",
+"emphasizedRowBgColor": "#1F6FEB",
+"emptyTextColor": "#7f7f7f"
+}
+},
+"presentation":{
+"backgroundColor": "#FFF"
+},
+"editor":{
+"codeCellTheme":"SolarizedDark",
+"markdownCellTheme":"SolarizedDark"
+},
+"css":{
+"className":"dark",
+"editor":".dark{color:#fff}.darka{color:#80BBFF}.darktabletr:nth-child(even){background-color:#34393F}.darkblockquote{color:#999}.darkhr{background-color:#999}.darkcode{background-color:rgba(255,255,255,.1)}.darksvg{background-color:#fff}.dark.text-cell[style]{color:#c7c7c7!important;background-color:transparent!important}.dark.diagram-cell.ace_editor,.dark.latex-cell.ace_editor,.dark.markdown-cell.ace_editor{color:#c7c7c7;background-color:#2b3137}.dark.markdown-cell.ace_list{color:#c7c7c7}",
+"preview":".dark{color:#fff}.darka{color:#80BBFF}.darktabletr:nth-child(even){background-color:#34393F}.darkblockquote{color:#999}.darkhr{background-color:#999}.darkcode{background-color:rgba(255,255,255,.1)}.darksvg{background-color:#fff}.dark.text-cell[style]{color:#c7c7c7!important;background-color:transparent!important}",
+"presentation":".dark{color:#fff}.darka{color:#80BBFF}.darktabletr:nth-child(even){background-color:#34393F}.darkblockquote{color:#999}.darkhr{background-color:#999}.darkcode{background-color:rgba(255,255,255,.1)}.darksvg{background-color:#fff}.dark.text-cell[style]{color:#c7c7c7!important;background-color:transparent!important}"
+}
+}
+
+
+
